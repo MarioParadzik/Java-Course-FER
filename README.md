@@ -1,4 +1,3 @@
-# Java-Course-FER
 
 # Java Course
 This repository contains solved homework problems from the **Java Course 1** at the Faculty of Electrical Engineering and Computing, held by lecturer doc. dr. sc. Marko Čupić.
